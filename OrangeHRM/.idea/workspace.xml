@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f66b0719-4201-4bd2-8b0e-65b917ac3644" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yww6Y0PilsdvdMwn05S1bDp2lA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/ScenarioOutline-master/ScenarioOutline-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Romic Masih\IdeaProjects\OrangeHRM\OrangeHRM\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: user should not be able to log in with invalid credentials">
+    <configuration name="Scenario: user should not be able to log in with invalid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/InvalidLogin.feature" />
+      <option name="GLUE" value="WebExercise" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="OrangeHRM" />
+      <option name="NAME_FILTER" value="^user should not be able to log in with invalid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user should not be able to log in with invalid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user should not be able to log in with invalid credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WebExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WebExercise" />
+      <option name="MAIN_CLASS_NAME" value="WebExercise.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: user should not be able to log in with invalid credentials" />
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f66b0719-4201-4bd2-8b0e-65b917ac3644" name="Default Changelist" comment="" />
+      <created>1583866789400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583866789400</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="240" width="467" height="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583878853301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="914" y="240" width="467" height="355" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583878853301" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1583952089943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1583952089943" />
+    <state x="499" y="105" key="FileChooserDialogImpl" timestamp="1583951860246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="105" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583951860246" />
+    <state width="1481" height="217" key="GridCell.Tab.0.bottom" timestamp="1583964360006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583964360006" />
+    <state width="1481" height="217" key="GridCell.Tab.0.center" timestamp="1583964360006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583964360006" />
+    <state width="1481" height="217" key="GridCell.Tab.0.left" timestamp="1583964360006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583964360006" />
+    <state width="1481" height="217" key="GridCell.Tab.0.right" timestamp="1583964360006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583964360006" />
+    <state x="373" y="0" key="Maven.ArtifactSearchDialog" timestamp="1583951887639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1583951887639" />
+    <state x="915" y="313" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583951816970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="915" y="313" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1583951816970" />
+    <state x="782" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583950437168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="782" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583950437168" />
+  </component>
+</project>
